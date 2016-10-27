@@ -5,7 +5,12 @@
  *
  * Made By MaterializeCSS.com
  */
-#span-11 {
+
+div#row1 {
+    margin-top: 60%;
+}
+
+.span-section {
     color: #009688;
     background-color: white;
 }
