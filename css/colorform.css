@@ -1,0 +1,18 @@
+form {
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+
+/* label color */
+
+.input-field label {
+    color: #ffffff;
+}
+
+
+/* label focus color */
+
+.input-field input[type=text]:focus+label {
+    color: #cfd8dc;
+}

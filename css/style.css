@@ -6,6 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
+
+div#slogan {
+    margin-top: 5%;
+}
+
+#download-button {
+    margin-top: 0%;
+}
+
 div#row1 {
     margin-top: 60%;
 }
@@ -17,6 +26,7 @@ div#row1 {
 
 span {
     background-color: #795548;
+
 }
 
 nav ul a,
