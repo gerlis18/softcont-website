@@ -9,7 +9,8 @@
             delay: 50
         });
         $('.slider').slider({
-            indicators: false
+            indicators: false,
+            full_width: true
         });
     }); // end of document ready
 })(jQuery); // end of jQuery name space

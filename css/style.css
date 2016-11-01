@@ -8,6 +8,7 @@
 
 /*Ger A.C*/
 
+
  nav ul li.active-movil {
      background-color: #4db6ac;
  }
@@ -29,7 +30,7 @@ div#row1 {
     background-color: white;
 }
 
-span {
+span#headers {
     background-color: #795548;
 
 }
